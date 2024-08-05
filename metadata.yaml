@@ -1,0 +1,52 @@
+_repo: Le-retour-d-Imray_73998
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Austin-Jackson, Arthur
+    gutenberg_agent_id: '56764'
+    url: http://www.gutenberg.org/2009/agents/56764
+  - agent_name: Fabulet, Louis
+    birthdate: 1862
+    deathdate: 1933
+    gutenberg_agent_id: '47751'
+    url: http://www.gutenberg.org/2009/agents/47751
+    wikipedia: https://fr.wikipedia.org/wiki/Louis_Fabulet
+creator:
+  author:
+    agent_name: Kipling, Rudyard
+    aliases:
+    - Kipling, R. (Rudyard)
+    - Kipling, Joseph Rudyard
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '132'
+    url: http://www.gutenberg.org/2009/agents/132
+    wikipedia: https://en.wikipedia.org/wiki/Rudyard_Kipling
+description: ''
+gutenberg_issued: '2024-07-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73998'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k6395904q
+pgterms:marc905: 20230625151525kipling
+pgterms:marc906: '1907'
+pgterms:marc907: FR
+production_note: Véronique Le Bris, Laurent Vogel and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bMercure de France, $c1907.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, English -- Translations into French'
+- !lcsh 'English fiction -- Translations into French'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: Le retour d'Imray -- Dray wara yow dee -- Le rickshaw-fantôme --
+  ·007 -- Le Bisara de Pooree -- Au bord de l'abîme -- Le chef du district -- Le navire
+  qui s'y retrouve -- Naboth -- Les bornes mentales de Pambé Serang -- Eux -- A mettre
+  au dossier.
+title: Le retour d'Imray
+url: http://www.gutenberg.org/ebooks/73998
